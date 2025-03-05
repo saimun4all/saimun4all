@@ -7,7 +7,7 @@ I am a Data Professional with a passion for transforming data into actionable in
 ## Skills and Experience
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> MySQL</code>
 * <code><img height="20" src="https://pbs.twimg.com/media/EimwjJ1WoAYYt_L.jpg"> PowerBI</code>
-* <code><img height="20" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png"> Tableau</code>
+* <code><img height="20" src="https://banner2.cleanpng.com/20180920/zg/kisspng-tableau-software-computer-software-logo-business-i-solutions-hiq-labs-1713937028400.webp"> Tableau</code>
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</code>
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> HTML</code>
 * <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> CSS</code>
